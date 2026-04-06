@@ -337,18 +337,6 @@ Conference, Dubai
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     CONTRIBUTION GRAPH
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssefhassan1717&bg_color=00000000&color=58a6ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&custom_title=Contribution%20Timeline" width="98%" />
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
      PROFILE SUMMARY CARDS
      ═══════════════════════════════════════════════════════════════════════════ -->
 
