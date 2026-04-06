@@ -311,16 +311,6 @@ Conference, Dubai
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     GITHUB TROPHIES
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssefhassan1717&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
-</div>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
