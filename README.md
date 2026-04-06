@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=220&section=header&text=Youssef%20Hassan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Researcher%20%7C%20ML%20Engineer%20%7C%20Co-Founder&descSize=18&descAlignY=55&descColor=00d4ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=220&section=header&text=Youssef%20Abdelmaksoud&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Researcher%20%7C%20Data%20Scientist%20%7C%20Co-Founder&descSize=18&descAlignY=55&descColor=00d4ff&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -16,7 +16,7 @@
 ```yaml
 name: Youssef Hassan Abdelmaksoud
 location: Giza, Egypt
-current_role: Co-Founder & Head of ML Research @ Vionex Digital Solutions
+current_role: Co-Founder & Head of R&D @ Vionex Digital Solutions
 education:
   masters: Data Science & AI @ AAST (In Progress)
   bachelors: Artificial Intelligence @ Nile University (GPA 3.94/4.00)
@@ -29,7 +29,8 @@ motto: "Innovation + Creativity + Resilience = Impact"
 - 🔬 Leading **AI R&D and digital transformation** projects across the Middle East
 - 🧠 Building **RAG pipelines, LLM systems, and knowledge graphs** for healthcare & academia
 - 🏢 Former **Software Engineer Intern @ Siemens EDA**
-- 🏆 **President's Honors List** — perfect 4.00 GPA semester at Nile University
+- 🏆 **President's Honors List** — perfect 4.00 GPA semester at Nile University **(x3)**
+- 🎖 **Dean's Honors List** — awarded **4 times** for outstanding academic performance
 - 🥉 **3rd Place** — ECPC (Egyptian Collegiate Programming Contest)
 - 📄 Published research at the **16th Student Research Conference on Applied Computing in Dubai**
 
@@ -42,11 +43,11 @@ motto: "Innovation + Creativity + Resilience = Impact"
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **AI / ML / Data Science**
 
@@ -138,7 +139,7 @@ ML model using climate data and historical incidence data with ensemble modeling
 
 | Role | Company | Period |
 |:-----|:--------|:------:|
-| **Co-Founder & Head of ML Research / R&D** | Vionex Digital Solutions | `Jul 2025 → Present` |
+| **Co-Founder & Head of R&D** | Vionex Digital Solutions | `Jul 2025 → Present` |
 | **Head of Academics** | IEEE Club, Nile University | `Nov 2024 → Present` |
 | **Software Engineer Intern** | Siemens EDA | `Feb 2024 → May 2024` |
 | **Desktop Engineering Trainee** | Siemens EDA Academy of Excellence | `Sep 2023 → Oct 2024` |
@@ -176,8 +177,8 @@ Nile University · GPA: **3.94 / 4.00**
 <div align="center">
 
 ![](https://img.shields.io/badge/🥉_3rd_Place-ECPC_Programming_Contest-00d4ff?style=for-the-badge)
-![](https://img.shields.io/badge/⭐_President's_Honors_List-GPA_4.00_Semester-gold?style=for-the-badge)
-![](https://img.shields.io/badge/🎖_Dean's_Honors_List-Awarded_3_Times-silver?style=for-the-badge)
+![](https://img.shields.io/badge/⭐_President's_Honors_List-GPA_4.00_×3_Semesters-gold?style=for-the-badge)
+![](https://img.shields.io/badge/🎖_Dean's_Honors_List-Awarded_4_Times-silver?style=for-the-badge)
 ![](https://img.shields.io/badge/📄_Published_Research-Dubai_Conference-00d4ff?style=for-the-badge)
 
 </div>
@@ -189,7 +190,7 @@ Nile University · GPA: **3.94 / 4.00**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Youssefhassan1717&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Youssefhassan1717&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" height="180" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefhassan1717&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" height="180" />
 
 <br>
@@ -214,7 +215,7 @@ Nile University · GPA: **3.94 / 4.00**
 
 [![Email](https://img.shields.io/badge/Email-youssefabdelmaksoudd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefabdelmaksoudd@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Youssefhassan1717-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssefhassan1717)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefhassan1717/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-abdelmaksoud-4a680027a/)
 [![Vionex](https://img.shields.io/badge/Vionex-Digital_Solutions-00d4ff?style=for-the-badge&logo=rocket&logoColor=white)](mailto:vio@vionex.digital)
 
 </div>
