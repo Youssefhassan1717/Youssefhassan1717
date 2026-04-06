@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=220&section=header&text=Youssef%20Abdelmaksoud&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Researcher%20%7C%20Data%20Scientist%20%7C%20Co-Founder&descSize=18&descAlignY=55&descColor=00d4ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=220&section=header&text=Youssef%20Abdelmaksoud&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Researcher&descSize=18&descAlignY=55&descColor=00d4ff&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+systems+that+solve+real+problems+%F0%9F%A7%A0;Co-Founder+%40+Vionex+Digital+Solutions+%F0%9F%9A%80;M.Sc.+Data+Science+%7C+B.Sc.+AI+%E2%80%94+GPA+3.94%2F4.00+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+systems+that+solve+real+problems;Co-Founder+%40+Vionex+Digital+Solutions;M.Sc.+Data+Science+%7C+B.Sc.+AI+%E2%80%94+GPA+3.94%2F4.00" alt="Typing SVG" />
 </a>
 
 </div>
 
 <!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## About Me
 
 ```yaml
 name: Youssef Hassan Abdelmaksoud
@@ -26,18 +26,18 @@ motto: "Innovation + Creativity + Resilience = Impact"
 
 <br>
 
-- 🔬 Leading **AI R&D and digital transformation** projects across the Middle East
-- 🧠 Building **RAG pipelines, LLM systems, and knowledge graphs** for healthcare & academia
-- 🏢 Former **Software Engineer Intern @ Siemens EDA**
-- 🏆 **President's Honors List** — perfect 4.00 GPA semester at Nile University **(x3)**
-- 🎖 **Dean's Honors List** — awarded **4 times** for outstanding academic performance
-- 🥉 **3rd Place** — ECPC (Egyptian Collegiate Programming Contest)
-- 📄 Published research at the **16th Student Research Conference on Applied Computing in Dubai**
+- Leading **AI R&D and digital transformation** projects across the Middle East
+- Building **RAG pipelines, LLM systems, and knowledge graphs** for healthcare & academia
+- Former **Software Engineer Intern @ Siemens EDA**
+- **President's Honors List** — perfect 4.00 GPA semester at Nile University **(x3)**
+- **Dean's Honors List** — awarded **4 times** for outstanding academic performance
+- **3rd Place** — ECPC (Egyptian Collegiate Programming Contest)
+- Published research at the **16th Student Research Conference on Applied Computing in Dubai**
 
 ---
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -73,32 +73,32 @@ motto: "Innovation + Creativity + Resilience = Impact"
 ---
 
 <!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 ScholarNexus
+### ScholarNexus
 **AI-Powered Academic Research Assistant**
 
 RAG pipelines + LLMs + multimodal avatar chatbot for research support. Paper analysis, plagiarism detection, and automated peer review.
 
-> 📊 **90%+ accuracy** in AI-text detection
-> 📍 Presented at **Dubai Research Conference**
+> **90%+ accuracy** in AI-text detection
+> Presented at **Dubai Research Conference**
 
 `Python` `FastAPI` `LangChain` `FAISS` `Flutter`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 MedRAG
+### MedRAG
 **Enhanced RAG for Medical Diagnosis**
 
 Knowledge graph-integrated RAG model for diagnostic accuracy using electronic health records. Hierarchical KG differentiates diseases with similar symptoms.
 
-> 🎯 Outperforms existing RAG models in diagnostic accuracy
+> Outperforms existing RAG models in diagnostic accuracy
 
 `Python` `RAG` `Knowledge Graphs` `NLP`
 
@@ -107,20 +107,20 @@ Knowledge graph-integrated RAG model for diagnostic accuracy using electronic he
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Code Plagiarism Detector
+### Code Plagiarism Detector
 **Fine-Tuned Ensemble for AI Code Detection**
 
 Dual Fine-Tuned Ensemble combining GraphCodeBERT, CodeT5, and UniXcoder. Deployed with Streamlit interface.
 
-> 📊 **88%** code transformation accuracy
-> 📊 **83%** AI code detection accuracy
+> **88%** code transformation accuracy
+> **83%** AI code detection accuracy
 
 `GraphCodeBERT` `CodeT5` `UniXcoder` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
-### 🦟 DengAI
+### DengAI
 **Predicting Dengue Fever Spread**
 
 ML model using climate data and historical incidence data with ensemble modeling and hyperparameter tuning for regional outbreak prediction.
@@ -135,7 +135,7 @@ ML model using climate data and historical incidence data with ensemble modeling
 ---
 
 <!-- EXPERIENCE -->
-## 💼 Experience
+## Experience
 
 | Role | Company | Period |
 |:-----|:--------|:------:|
@@ -148,7 +148,7 @@ ML model using climate data and historical incidence data with ensemble modeling
 ---
 
 <!-- EDUCATION -->
-## 🎓 Education
+## Education
 
 <table>
 <tr>
@@ -172,21 +172,21 @@ Nile University · GPA: **3.94 / 4.00**
 ---
 
 <!-- AWARDS -->
-## 🏆 Honours & Awards
+## Honours & Awards
 
 <div align="center">
 
-![](https://img.shields.io/badge/🥉_3rd_Place-ECPC_Programming_Contest-00d4ff?style=for-the-badge)
-![](https://img.shields.io/badge/⭐_President's_Honors_List-GPA_4.00_×3_Semesters-gold?style=for-the-badge)
-![](https://img.shields.io/badge/🎖_Dean's_Honors_List-Awarded_4_Times-silver?style=for-the-badge)
-![](https://img.shields.io/badge/📄_Published_Research-Dubai_Conference-00d4ff?style=for-the-badge)
+![](https://img.shields.io/badge/3rd_Place-ECPC_Programming_Contest-00d4ff?style=for-the-badge)
+![](https://img.shields.io/badge/President's_Honors_List-GPA_4.00_×3_Semesters-gold?style=for-the-badge)
+![](https://img.shields.io/badge/Dean's_Honors_List-Awarded_4_Times-silver?style=for-the-badge)
+![](https://img.shields.io/badge/Published_Research-Dubai_Conference-00d4ff?style=for-the-badge)
 
 </div>
 
 ---
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -209,7 +209,7 @@ Nile University · GPA: **3.94 / 4.00**
 ---
 
 <!-- CONNECT -->
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
 
