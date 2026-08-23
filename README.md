@@ -211,7 +211,7 @@ STACK    Python  |  C/C++  |  JS
 <table>
 <tr>
 <td width="80"><strong>2025 -<br>Present</strong></td>
-<td><strong>Co-Founder & Head of R&D</strong> &mdash; Vionex Digital Solutions<br><sub>Leading AI R&D and machine learning initiatives. Driving digital transformation and automation projects across the Middle East, collaborating with government and healthcare partners.</sub></td>
+<td><strong>Software Engineer</strong> &mdash; Vionex Digital Solutions<br><sub>Driving digital transformation and automation projects across the Middle East, collaborating with government and healthcare partners.</sub></td>
 </tr>
 <tr>
 <td width="80"><strong>2024 -<br>Present</strong></td>
