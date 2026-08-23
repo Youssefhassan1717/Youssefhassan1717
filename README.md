@@ -35,7 +35,7 @@
 
 I am a **Software Engineer** and **AI Researcher** with a strong foundation in machine learning, natural language processing, and full-stack development. Currently pursuing an **M.Sc. in Data Science** at AAST, building on a **B.Sc. in Artificial Intelligence** from Nile University with a **3.94/4.00 GPA**.
 
-As **Co-Founder and Head of R&D at Vionex Digital Solutions**, I lead AI research and digital transformation projects across the Middle East, collaborating with government and healthcare partners on infrastructure aligned with **Egypt Vision 2030**.
+As **Software Engineer at Vionex Digital Solutions**, I worked in digital transformation projects across the Middle East, collaborating with government and healthcare partners on infrastructure aligned with **Egypt Vision 2030**.
 
 My published research on AI-powered academic systems was presented at the **16th Student Research Conference on Applied Computing in Dubai**.
 
