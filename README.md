@@ -45,7 +45,7 @@ My published research on AI-powered academic systems was presented at the **16th
 ```
 Youssef Hassan Abdelmaksoud
 ──────────────────────────────
-ROLE     Co-Founder & Head of R&D
+ROLE     ex SWE
          @ Vionex Digital Solutions
 STUDY    M.Sc. Data Science (AAST)
          B.Sc. AI (Nile University)
